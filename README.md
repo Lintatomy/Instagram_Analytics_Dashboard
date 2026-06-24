@@ -10,7 +10,7 @@ Book1.xlsx — User profiles (Age Group, Gender, Country, Device Type)
 Book2.xlsx — Install data (Install Source, App Version, Uninstall status)
 Models Used: Logistic Regression | Decision Tree | Random Forest
 
- Google colab code ----
+ Google colab code for Chrun Prediction ----
  
  https://colab.research.google.com/drive/1FTcOteqG3xumuJrx4hjCLRvJNHKsKpCN#scrollTo=6dfc92c9
 
@@ -24,5 +24,9 @@ Objective: Forecast future app metrics (Active Users, New Installs, Reels Watche
 Dataset:
 
 Book5.xlsx — Monthly engagement (Reels, Stories, Posts, Messages)
+
+Google colab code for Time Series Forcasting ----
+
+https://colab.research.google.com/drive/1FKO1WKX_HJ5nYnnfAr_0htDmsBEG3MvB
 Book6.xlsx — Monthly app metrics (Active Users, Installs, Uninstalls, Session Time)
 Models Used: ARIMA | Facebook Prophet
