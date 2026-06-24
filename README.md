@@ -10,7 +10,9 @@ Book1.xlsx — User profiles (Age Group, Gender, Country, Device Type)
 Book2.xlsx — Install data (Install Source, App Version, Uninstall status)
 Models Used: Logistic Regression | Decision Tree | Random Forest
 
-
+ Google colab code ----
+ 
+ https://colab.research.google.com/drive/1FTcOteqG3xumuJrx4hjCLRvJNHKsKpCN#scrollTo=6dfc92c9
 
 
 
