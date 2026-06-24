@@ -1,4 +1,4 @@
-Churn Prediction — InstaGram Analytics Dashboard
+Churn Prediction — Instagram Analytics Dashboard
 
 
 Machine Learning Project
