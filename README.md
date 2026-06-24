@@ -1,4 +1,6 @@
 Churn Prediction — InstaGram Analytics Dashboard
+
+
 Machine Learning Project
 Objective: Predict whether a user will uninstall the app (churn) based on their profile and install data.
 
@@ -10,7 +12,11 @@ Models Used: Logistic Regression | Decision Tree | Random Forest
 
 
 
+
+
 Time Series Forecasting — Social Media App
+
+
 Objective: Forecast future app metrics (Active Users, New Installs, Reels Watched, Messages Sent) using ARIMA and Prophet models.
 
 Dataset:
